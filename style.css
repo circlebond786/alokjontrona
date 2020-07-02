@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+#bio{
+    font-size: 30px;
+    color:#e0e0e0;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+#bio2{
+    font-size: 30px;
+    color:#e0e0e0;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    margin-bottom:80px;;
+}
+.welcome{
+    font-size: 30px;
+    font-family: arial;
+    margin-top: 75px;
+    color:#e0e0e0;
+
+}
+.passion{
+    font-family: arial;
+    font-size: 18px;
+}
+
+.highlight{
+    color: blue;
+}
+.para{
+    font-family: arial;
+    margin-bottom: 50px;
+    color: #e0e0e0;
+}
+
+#title{
+    font-family: 'Bree Serif', serif;
+    font-size: 66px;
+}
+.teen{
+    width: 23%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+    margin-top: 50px;;
+
+}
+
+.teen img{
+    width: 100%;
+   
+    margin-top: 25px;
+    box-shadow: 10px 10px 10px #a08c8c;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.half-width2{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.half-width img{
+    width: 100%;
+    
+    margin-top: 25px;
+}
+.half-width2 img{
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+.top-banner{
+    height: 660px;
+    background-color: black;
+    color: blanchedalmond;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, #643fea, #673AB7);
+    font-family: arial;
+
+    
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.link-button2{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    background-image: linear-gradient(45deg, #643fea, #673AB7);
+    font-family: arial;
+    margin-left: 30px;;
+
+    
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.middle{
+    margin-top: 50px;
+    color: white;
+    background-repeat: no-repeat;
+    height: 500px;
+    
+}
+.para2{
+    font-size: 18px;
+    color: #e0e0e0;
+    padding: 30px;
+}
+.center{
+    text-align: center;
+}
+
+.work{
+    margin-top: 50px;
+    color: white;
+    background-repeat: no-repeat;
+    height: 500px;
+    
+}
+
+.holo{
+    text-decoration: none;
+    color: white;
+}
+#letter{
+    padding: 10px;
+    width: 90%;
+}
+.write{
+    margin-top: 10px;
+    width: 80%;
+    height: 180px;
+    background-color: #e0e0e0;
+}
+.footer p{
+    color: #e0e0e0;
+    margin-top: 110px;
+    text-align: center;
+}
+.logo{
+    color: white;
+    font-family: 'Bree Serif', serif;
+    
+}
+}
